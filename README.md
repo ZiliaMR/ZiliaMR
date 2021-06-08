@@ -2,7 +2,7 @@
 
 <h3 align="center">Hey there, I'm Zilia</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img width="30%" height="auto" src="https://github.com/ZiliaMR/ZiliaMR/blob/main/Zili-Helico.jpg?raw=true" height="175px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://github.com/ZiliaMR/ZiliaMR/blob/main/Zili-Helico2.png?raw=true" height="175px"/></a>
 </p>
 
 
